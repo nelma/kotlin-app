@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">KotlinApp</string>
+    <string name="no_action">No action</string>
+    <string name="action">Action</string>
+    <string name="disliked">Dislike</string>
+    <string name="like">Like</string>
+    <string name="notification_title">Notification Title</string>
+    <string name="notification_body">Notification Body</string>
+    <string name="clear_notification_text_fields_title">Clear Notification Text Fields Title</string>
+    <string name="generate_placeholder_text_title">Generate Placeholder Text Title</string>
+    <string name="glide">Glide</string>
+    <string name="picasso">Picasso</string>
+    <string name="include_action_buttons">Include Action Buttons</string>
+    <string name="address">Address</string>
+    <string name="none">None</string>
+    <string name="places">Places</string>
+    <string name="create_push_notification">Create Push Notification</string>
+    <string name="generate_placeholder_text_description">Do you really want to generate placeholder text for notification fields?</string>
+    <string name="placeholder_text_generated">Placeholder Text Generated</string>
+    <string name="ok_then">Ok Then</string>
+    <string name="clear_notification_text_fields_description">Clear Notification Text Fields Description</string>
+    <string name="text_fields_cleared">Text Fields Cleared</string>
 </resources>
